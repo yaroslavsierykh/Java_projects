@@ -1,0 +1,10 @@
+# Java .gitignore — помістіть у C:\Users\YAROSLAV\Desktop\Java_projects\.gitignore
+*.class
+*.log
+/out/
+target/
+*.jar
+*.war
+.idea/
+*.iml
+.vscode/

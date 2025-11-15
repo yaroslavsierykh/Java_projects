@@ -1,0 +1,1 @@
+StopV2{name='Тестова', passengers=123}
