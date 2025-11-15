@@ -1,0 +1,5 @@
+StopV2{name='Центральна', passengers=45}
+StopV2{name='Проспект Перемоги', passengers=30}
+StopV2{name='Площа Свободи', passengers=60}
+StopV2{name='Вокзал', passengers=25}
+StopV2{name='Садівнича вулиця', passengers=25}

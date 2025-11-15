@@ -1,0 +1,22 @@
+<stops>
+  <stop>
+    <name>Центральна</name>
+    <passengers>45</passengers>
+  </stop>
+  <stop>
+    <name>Проспект Перемоги</name>
+    <passengers>30</passengers>
+  </stop>
+  <stop>
+    <name>Площа Свободи</name>
+    <passengers>60</passengers>
+  </stop>
+  <stop>
+    <name>Вокзал</name>
+    <passengers>25</passengers>
+  </stop>
+  <stop>
+    <name>Садівнича вулиця</name>
+    <passengers>25</passengers>
+  </stop>
+</stops>
